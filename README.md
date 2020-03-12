@@ -1,68 +1,57 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# [Striker Soccer Center](https://striker-soccer-center.herokuapp.com/)
+## [Deployed Link](https://striker-soccer-center.herokuapp.com/)
 
-## Available Scripts
+<hr>
 
-In the project directory, you can run:
+## Description
+Striker Soccer Center is a mobile-responsive application designed to help users schedule and reserve time on public soccer fields. 
 
-### `npm start`
+<hr>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Tools
+- CSS framework: Bootstrap
+- Database creation: Sequelize ORM and MySQL
+- Created in React js.
+-Google Translate 
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<hr>
 
-### `npm test`
+### Challenges
+- Creating a login and user authentication process.
+- Maintaining a simple and user friendly design.
+- Successfully deploying a fullstack application by myself.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<hr>
 
-### `npm run build`
+### Overview
+* The homepage is the first thing the user sees upon loading the site. A simple and aestetically pleasing layout draws the users attention to important information.
+![Homepage](/project3/public/homePage.PNG)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+* The user sign up and login screen, simple and easy to understand to allow for the best user experience possible.
+![Login](/project3/public/login.PNG)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+* Once the user is signed up and logged in they are able to access the site primary purpose, the reservation function. This page gives the user all the necessary information they need in order to reserve their field for their desired time of day.
+![Reserve](/project3/public/reservation.PNG)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+* After the user has reserved a field or fields for a specific time and date, they are directed to a confirmation page that shows all their reservations. Once they click confirm, an automated email is sent to them with the reservation information.
+![Confirm](/project3/public/confirmation.PNG)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Analyzing the Bundle Size
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+<hr>
 
-### Making a Progressive Web App
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-### Advanced Configuration
+### Contributor
+Created indepenently by Michael Zanercik. 
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify

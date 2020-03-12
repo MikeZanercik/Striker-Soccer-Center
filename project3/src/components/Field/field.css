@@ -1,0 +1,38 @@
+/* NON MOBILE  */
+@media only screen and (min-width: 600px) {
+    img {
+        height: 60vh;
+        width: 30vw;
+        margin: 10px 5px;
+    }
+
+
+
+  }
+
+
+  /* MOBILE */
+@media only screen and (max-width: 600px) {
+    .grid-container{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    img {
+        /* min-height: 70vh;
+        min-width: 80vw; */
+        height: 70vh;
+        width: 80vw;
+        margin: 10px 0;
+    }
+
+
+
+}
+
+
+
+
+  
+ 
+  
+  
