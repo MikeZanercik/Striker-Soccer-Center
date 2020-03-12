@@ -52,6 +52,6 @@ Striker Soccer Center is a mobile-responsive application designed to help users 
 
 
 ### Contributor
-Created indepenently by Michael Zanercik. 
+Created independently by Michael Zanercik. 
 
 
