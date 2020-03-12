@@ -24,7 +24,7 @@ Striker Soccer Center is a mobile-responsive application designed to help users 
 <hr>
 
 ### Overview
-* The homepage is the first thing the user sees upon loading the site. A simple and aestetically pleasing layout draws the users attention to important information.
+* The homepage is the first thing the user sees upon loading the site. A simple and aestetically pleasing layout draws the users attention to important information. Notice in the bottom left corner the user has the option to translate the entire page into over 100 different languages, in an effort to make the services of this website accessable to all.
 ![Homepage](/project3/public/homePage.PNG)
 
 
